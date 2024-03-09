@@ -1,0 +1,7 @@
+D:\KTLT\BankingSystem\bin\Debug\BankingSystem.exe.config
+D:\KTLT\BankingSystem\bin\Debug\BankingSystem.exe
+D:\KTLT\BankingSystem\bin\Debug\BankingSystem.pdb
+D:\KTLT\BankingSystem\obj\Debug\BankingSystem.csproj.AssemblyReference.cache
+D:\KTLT\BankingSystem\obj\Debug\BankingSystem.csproj.CoreCompileInputs.cache
+D:\KTLT\BankingSystem\obj\Debug\BankingSystem.exe
+D:\KTLT\BankingSystem\obj\Debug\BankingSystem.pdb
